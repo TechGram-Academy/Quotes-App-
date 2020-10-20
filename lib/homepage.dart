@@ -4,12 +4,16 @@ import 'package:cloud_firestore/cloud_firestore.dart';
 
 class HomePage extends StatelessWidget {
   static const Color textColor = Colors.white;
-  static const Color cardBackColor = Colors.lightBlue;
+  static const Color cardBackColor = Color(0xffF06292);
+  static const Color backgroundColor = Color(0xff607D8B);
+  static const Color appBarColor = Color(0xff37474F);
 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      backgroundColor: backgroundColor,
       appBar: AppBar(
+        backgroundColor: appBarColor,
         title: Text("Quotes App"),
       ),
       body: StreamBuilder(
@@ -24,7 +28,7 @@ class HomePage extends StatelessWidget {
               return Card(
                 color: cardBackColor,
                 shape: RoundedRectangleBorder(
-                  side: BorderSide(color: Colors.yellow, width: 1),
+                  side: BorderSide(color: appBarColor, width: 5),
                   borderRadius: BorderRadius.circular(15.0),
                 ),
 
