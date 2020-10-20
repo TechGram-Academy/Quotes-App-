@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "438601858939",
+    "firebase_url": "https://quotesapp-a4866.firebaseio.com",
+    "project_id": "quotesapp-a4866",
+    "storage_bucket": "quotesapp-a4866.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438601858939:android:8b13169eb4b20e2cde47de",
+        "android_client_info": {
+          "package_name": "com.techgramacademy.quotes_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438601858939-7fu1lfp4dcda0pqtf980t3ksdpgm058r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPFiJvWSfUsirt1lbr8JZX6ZMI1Tr6EUc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438601858939-7fu1lfp4dcda0pqtf980t3ksdpgm058r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
