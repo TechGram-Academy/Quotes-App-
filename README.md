@@ -5,6 +5,6 @@ This application is a part of a course - <a href="https://www.youtube.com/playli
 
 <h2> Screenshots -</h2><br>
 <div>
-<img src="screenshot.png"  width=250, height=512, style="display:inline-block;">
+<img src="screenshot1.png"  width=250, height=512, style="display:inline-block;">
 </div>
 

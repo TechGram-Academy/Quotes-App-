@@ -32,7 +32,7 @@ class HomePage extends StatelessWidget {
                   borderRadius: BorderRadius.circular(15.0),
                 ),
 
-                elevation: 20,
+                elevation: 50,
                 margin: EdgeInsets.all(20),
                 child: Container(
                   padding: EdgeInsets.all(20),
